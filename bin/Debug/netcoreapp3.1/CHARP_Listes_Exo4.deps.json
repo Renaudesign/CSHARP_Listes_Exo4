@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "CHARP_Listes_Exo4/1.0.0": {
+        "runtime": {
+          "CHARP_Listes_Exo4.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CHARP_Listes_Exo4/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
